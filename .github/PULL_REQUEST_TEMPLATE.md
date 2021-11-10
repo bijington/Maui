@@ -1,6 +1,8 @@
 <!--
  Hello, and thanks for your interest in contributing to the .NET MAUI Toolkit! 
- Please choose an option from below. Once you have chosen please simply delete the option you do not wish to keep marked.
+
+ Please take you time to choose an option from below. 
+ Once you have chosen please simply delete the option you do not wish to keep. These are marked with a START and END comment.
  -->
  
  <!-- BUG FIX - START -->
@@ -55,7 +57,7 @@
 
  ### PR Checklist ###
  <!-- Please check all the things you did here and double-check that you got it all, or state why you didn't do something -->
- - [ ] Has a linked Issue, and the Issue has been `approved`
+ - [ ] Has a linked Issue, and the Issue has been `Championed`
  - [ ] Has tests (if omitted, state reason in description)
  - [ ] Has samples (if omitted, state reason in description)
  - [ ] Rebased on top of target branch at time of PR
